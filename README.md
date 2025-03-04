@@ -1,1 +1,1 @@
-# ai_case_studies
+# AI Architecture Implementations
