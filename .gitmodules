@@ -1,0 +1,3 @@
+[submodule "Transformer_2017"]
+	path = Transformer_2017
+	url = https://github.com/jmcheon/Transformers
