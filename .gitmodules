@@ -1,3 +1,6 @@
 [submodule "Transformer_2017"]
 	path = Transformer_2017
 	url = https://github.com/jmcheon/Transformers
+[submodule "Vision_Transformer_2020"]
+	path = Vision_Transformer_2020
+	url = https://github.com/jmcheon/Transformers
