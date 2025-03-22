@@ -1,3 +1,6 @@
+
+This repo was integrated into https://github.com/jmcheon/Transformers and is now deprecated.
+
 # Paper Implementation
 
 This repository contains implementations of moderne AI architectures from research papers.
